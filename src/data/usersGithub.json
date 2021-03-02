@@ -1,0 +1,24 @@
+{
+    "usersGithub": [
+      {
+        "id": 1,
+        "user": "gaearon"
+      },
+      {
+        "id": 2,
+        "user": "acdlite"
+      },
+      {
+        "id": 3,
+        "user": "yyx990803"
+      },
+      {
+        "id": 4,
+        "user": "unclebob"
+      },
+      {
+        "id": 5,
+        "user": "martinfowler"
+      }
+    ]
+  }
